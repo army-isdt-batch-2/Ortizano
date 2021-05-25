@@ -1,6 +1,6 @@
 @php $active = 'Departments' @endphp
 @extends('Layout.main')
-@section('title', 'Departments test')
+@section('title', 'Departments t33est')
 @section('content')
     <div class="row align-items-center"> 
         <div class="col-12 mt-5">
